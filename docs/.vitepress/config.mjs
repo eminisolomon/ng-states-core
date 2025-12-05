@@ -4,7 +4,6 @@ export default defineConfig({
   title: "ng-states-core",
   description:
     "Complete Nigerian states, LGAs, and location data for developers",
-  base: "/ng-states-core/", // GitHub Pages base URL
 
   themeConfig: {
     logo: "/logo.svg",
