@@ -11,3 +11,8 @@ coverage
 .nyc_output
 /
 .idea/
+
+# VitePress
+docs/.vitepress/cache
+docs/.vitepress/dist
+.temp
