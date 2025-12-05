@@ -331,8 +331,8 @@ Check out the [examples](examples/) directory for more usage patterns:
 
 ```bash
 # Clone the repository
-git clone https://github.com/atomicman57/naija-state-local-government.git
-cd naija-state-local-government
+git clone https://github.com/atomicman57/ng-states-core.git
+cd ng-states-core
 
 # Install dependencies
 npm install
