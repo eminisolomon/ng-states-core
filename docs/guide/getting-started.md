@@ -123,6 +123,7 @@ console.log(southWest.map((s) => s.state));
 ## Next Steps
 
 - [Quick Start Guide](/guide/quick-start) - Dive deeper with more examples
+- [States & Capitals](/guide/states-capitals) - Work with state data
 - [API Reference](/api/overview) - Explore all available functions
 - [Examples](/examples/basic) - See real-world usage examples
 
@@ -132,3 +133,4 @@ console.log(southWest.map((s) => s.state));
 - 💬 Join [GitHub Discussions](https://github.com/eminisolomon/ng-states-core/discussions)
 - 🐛 Report [Issues](https://github.com/eminisolomon/ng-states-core/issues)
 - 🤝 Read [Contributing Guide](/guide/contributing)
+- 📚 View [Data Sources](/guide/data-sources)

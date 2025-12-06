@@ -384,5 +384,6 @@ function RegistrationForm() {
 ## Next Steps
 
 - [Vue Integration](/examples/vue) - Use in Vue applications
-- [Next.js App](/examples/nextjs) - Server-side rendering examples
+- [Next.js Integration](/examples/nextjs) - Server-side rendering examples
+- [Map Integration](/examples/maps) - Display states on maps
 - [API Reference](/api/overview) - Complete API documentation

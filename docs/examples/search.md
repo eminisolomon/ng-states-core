@@ -250,5 +250,6 @@ console.log(validateLocation("Invalid", "town"));
 ## Next Steps
 
 - [React Integration](/examples/react) - Use search in React components
+- [Vue Integration](/examples/vue) - Use search in Vue applications
 - [Map Integration](/examples/maps) - Display results on a map
 - [API Reference](/api/search) - Complete search API documentation
